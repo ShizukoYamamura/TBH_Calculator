@@ -1,0 +1,11 @@
+{
+  "title": "TBH ステータス & DPS解析",
+  "attack": "基本攻撃力",
+  "interval": "攻撃間隔 (秒)",
+  "critRate": "クリティカル率 (%)",
+  "critDamage": "クリティカルダメージ (+%)",
+  "priestBuff": "プリーストバフ (%)",
+  "otherMultipliers": "その他ダメージ乗算 (%)",
+  "result": "総合DPS",
+  "language": "言語"
+}

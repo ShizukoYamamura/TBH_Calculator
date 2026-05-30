@@ -1,0 +1,11 @@
+{
+  "title": "TBH Stats & DPS Analyzer",
+  "attack": "Base Attack",
+  "interval": "Attack Interval (sec)",
+  "critRate": "Crit Rate (%)",
+  "critDamage": "Crit Damage (+%)",
+  "priestBuff": "Priest Buff (%)",
+  "otherMultipliers": "Other Multipliers (%)",
+  "result": "Total DPS",
+  "language": "Language"
+}
