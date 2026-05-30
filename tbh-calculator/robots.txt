@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tbh-calculator.yamastudio.net/sitemap.xml
